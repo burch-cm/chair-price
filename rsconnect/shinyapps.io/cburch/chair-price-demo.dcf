@@ -1,0 +1,13 @@
+name: chair-price-demo
+title: chair-price-demo
+username:
+account: cburch
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2265002
+bundleId: 3119242
+url: https://cburch.shinyapps.io/chair-price-demo/
+when: 1588914683.21572
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|app_backup.R|README.md|rawdata/Furniture Pricing DB_v0.1.0.accdb|rawdata/Pricing.xlsx|rawdata/Product.xlsx|rawdata/Requirement Type.xlsx
